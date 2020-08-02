@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Corey, a software engineer and game developer from Buffalo!
+
 <!--
 **coreyjs/coreyjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
