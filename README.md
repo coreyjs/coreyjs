@@ -2,6 +2,11 @@
 
 I am Corey, a software engineer and game developer from Buffalo!
 
+- 🔭 I’m currently working on Project Phoenix, a third person adventure game in UE4 about exploring the unknown and finding your purpose in life.
+
+
+- 📫 How to reach me: coreyjs [at] hey.com, or on twitter @corey_s_
+
 <!--
 **coreyjs/coreyjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
