@@ -6,7 +6,7 @@ I am Corey, a software engineer and game developer from Buffalo!
 
 - 🌱 I’m currently learning:  Go and Rust for the most part, and spending a lot of time in Blender3d
 
-- 📫 How to reach me: coreyjs [at] hey.com, or on twitter @corey_s_
+- 📫 How to reach me: coreyjs [at] hey.com, or on twitter [@corey_s_](https://twitter.com/corey_s_)
 
 - I have few non programming things up on [Art Station](https://coreyjs.artstation.com/)
 
