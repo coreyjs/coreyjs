@@ -2,7 +2,7 @@
 
 I am Corey, a software engineer and game developer from Buffalo!
 
-- 🔭 I’m currently working on Project Phoenix, a third person adventure game in UE4 about exploring the unknown and finding your purpose in life.
+- 🔭 I’m currently working on Project Pluto, a first person sudo horror game in UE4, think PT meets event horizon.
 
 - 🌱 I’m currently learning:  Go and Rust for the most part, and spending a lot of time in Blender3d.  I am also exploring the world of machine learning in python.
 
