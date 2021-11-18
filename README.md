@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Corey, a software engineer and game developer from Buffalo!
+I am Corey, a software engineer, AI explorer and game developer from Buffalo!
 
 - 🔭 I’m currently working on Project Pluto, a first person sudo horror game in UE4, think PT meets event horizon.
 
