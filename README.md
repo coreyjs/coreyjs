@@ -10,8 +10,6 @@ I am Corey, a software engineer, AI explorer and game developer from Buffalo!
 
 - I have few non programming things up on [Art Station](https://coreyjs.artstation.com/)
 
-- My Resume: [Corey Schaf SWE](https://github.com/coreyjs/coreyjs/files/7972722/schaf_swe.pdf)
-
 
 
 - Go Sabres
