@@ -8,7 +8,7 @@ I am Corey, a software engineer, AI explorer and game developer from Buffalo!
 
 - 📫 How to reach me: coreyjs [at] hey.com, or on twitter [@corey_s_](https://twitter.com/corey_s_)
 
-- I have few non programming things up on [Art Station](https://coreyjs.artstation.com/)
+- I write a weekly article called "The Weekly Page" about life, my challenges, things I like, books I am reading and games I am playing.  You can [subscribe here](challenges), its free! 
 
 
 
