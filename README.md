@@ -2,13 +2,13 @@
 
 I am Corey, a software engineer, AI explorer and game developer from Buffalo!
 
-- 🔭 I’m currently working on Project Pluto, a first person sudo horror game in UE4, think PT meets event horizon.
+- 🔭 I’m currently working on Project Gato, a third person narrative game about exploring the world outside your comfort zone.
 
-- 🌱 I’m currently learning:  Go and Rust for the most part, and spending a lot of time in Blender3d.  I am also exploring the world of machine learning in python.
+- 🌱 I’m currently learning:  Go and Rust for the most part, and spending a lot of time in Blender3d and Unreal Engine 5.  I am also exploring the world of machine learning in python.
 
 - 📫 How to reach me: coreyjs [at] hey.com, or on twitter [@corey_s_](https://twitter.com/corey_s_)
 
-- I write a weekly article called "The Weekly Page" about life, my challenges, things I like, books I am reading and games I am playing.  You can subscribe [here](https://www.theweeklypage.com/), its free! 
+- I write a weekly article called "The Bit Arcade" about life, my challenges, and my indie game dev journey.  You can subscribe [here](https://www.thebitarcade.com/), its free! 
 
 
 
