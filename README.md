@@ -2,7 +2,7 @@
 
 I am Corey, a software engineer, AI explorer and game developer from Buffalo!
 
-- 🔭 I’m currently working on Project Gato, a third person narrative game about exploring the world outside your comfort zone in Unreal Engine 5.
+- 🔭 I’m currently working on Fear, a first person story driven game where you play as an amateur paranomal investigator (ghost hunter) in Unreal Engine 5.
 
 - 📫 How to reach me: coreyjs [at] hey.com, or on twitter [@corey_s_](https://twitter.com/corey_s_) or Bluesky [@coreyjs.dev](https://bsky.app/profile/coreyjs.dev)
 
