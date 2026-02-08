@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Corey, founder of [Ghost Labs](https://ghostlabsllc.xyz) and creator of [Loom Graph](https://loomgraph.com), [JATA](https://jata.ghostlabsllc.xyz) and coming soon [Everkin](https://everkin.io).
+Im Corey, founder of [Ghost Labs](https://ghostlabs.tech) and creator of [Loom Graph](https://loomgraph.com), [JATA](https://jata.ghostlabsllc.xyz) and coming soon [Everkin](https://everkin.io).
 
 - I am a product engineer, backend engineer, hobby game dev and AI explorer.
 
